@@ -25,5 +25,4 @@ Font Awesome Icons
 
 Google Fonts (Montserrat)
 
- Live Demo:
-👉 Click to View Live Site
+
